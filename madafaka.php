@@ -1,3 +1,0 @@
-<?php
-madafak PHP
-?>
